@@ -4,7 +4,10 @@
 
 [![Document](https://github.com/protected-species-management/operating-model/actions/workflows/document.yml/badge.svg)](https://github.com/protected-species-management/operating-model/actions/workflows/document.yml)
 
-# life-history-module
+## life-history-module
 
 [![Document](https://github.com/protected-species-management/life-history-module/actions/workflows/document.yml/badge.svg)](https://github.com/protected-species-management/life-history-module/actions/workflows/document.yml)
 
+## empirical-data-module
+
+[![Document](https://github.com/protected-species-management/empirical-data-module/actions/workflows/document.yml/badge.svg)](https://github.com/protected-species-management/empirical-data-module/actions/workflows/document.yml)
