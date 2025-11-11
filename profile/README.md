@@ -8,6 +8,6 @@
 
 [![Document](https://github.com/protected-species-management/life-history-module/actions/workflows/document.yml/badge.svg)](https://github.com/protected-species-management/life-history-module/actions/workflows/document.yml)
 
-## empirical-data-module
+## fishery-inputs-module
 
-[![Document](https://github.com/protected-species-management/empirical-data-module/actions/workflows/document.yml/badge.svg)](https://github.com/protected-species-management/empirical-data-module/actions/workflows/document.yml)
+[![Document](https://github.com/protected-species-management/fishery-inputs-module/actions/workflows/document.yml/badge.svg)](https://github.com/protected-species-management/fishery-inputs-module/actions/workflows/document.yml)
